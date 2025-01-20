@@ -10,5 +10,3 @@ def greet(n):
 
 for na in names:
     greet(na)
-
-    https://technologychannel.org/post/git-cheatsheet-for-begineers/

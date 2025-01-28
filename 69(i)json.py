@@ -1,6 +1,6 @@
 import requests
 
-websitelink = "https://jsonguide.technologychannel.org/info.json"
+websitelink = "https://raw.githubusercontent.com/RaiPadam/Python-learning/refs/heads/main/names.txt"
 
 try:
     resp = requests.get(websitelink)
